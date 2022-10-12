@@ -1,4 +1,6 @@
- <<<<<<< HEAD
+new file added......
+
+
 addin new line in master 
 master side updating........
 =======
